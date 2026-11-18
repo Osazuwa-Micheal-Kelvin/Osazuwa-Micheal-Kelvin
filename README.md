@@ -1,4 +1,4 @@
-# Hi, I'm [Your Full Name] 👋
+# Hi, I'm Osazuwa Micheal Kelvin 👋
 
 ### AI Automation Engineer | AI Agents · Workflow Automation · Data Pipelines
 
@@ -51,14 +51,14 @@ Some projects run on a self-hosted setup that is not always online. If a demo li
 
 ## 📄 License and copyright
 
-© 2026 [Your Full Name]. All rights reserved.
+© 2026 Osazuwa Micheal Kelvin. All rights reserved.
 
 The projects in my repositories are shared to showcase my work. Unless a repository states otherwise in its `LICENSE` file, you may view them and import the workflows for personal evaluation and testing. Copying, redistributing, reselling, or using them commercially requires my written permission. Please see the `LICENSE` file in each repository for the exact terms.
 
 ## 📫 Let's work together
 
-- 📧 Email: [your-email]
-- 💼 LinkedIn: [your-linkedin-link]
-- 🌐 Upwork / Fiverr / Website: [your-link]
+- 📧 Email: osazuwamichealkelvin@gmail.com
+- 💼 LinkedIn: [[My-linkedin-link](https://www.linkedin.com/in/micheal-osazuwa-kelvin14471230b/)]
+- 🌐 Upwork / Fiverr / Website: [NA]
 
 *Available for freelance AI automation projects.*
