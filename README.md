@@ -28,10 +28,10 @@ Each repository explains the problem, the solution, the architecture, the tech s
 
 ## 🛠 Tools I work with
 
-**Automation:** n8n · Webhooks · REST APIs
+**Automation:** n8n · Webhooks · REST APIs · Gmail API, Slack, Supabase
 **AI:** Google Gemini · LLM agents · Prompt design · Voice transcription
 **Data:** Python · pandas · CSV / Excel processing
-**Infrastructure:** Docker (self-hosted n8n)
+**Infrastructure:** Docker (self-hosted n8n) · Git and GitHub
 
 ## 🤝 How I work
 
