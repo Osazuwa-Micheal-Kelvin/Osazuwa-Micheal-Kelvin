@@ -20,7 +20,9 @@ I help businesses replace manual, repetitive work with AI agents and automated w
 | Project | Overview | Stack | Status |
 |---|---|---|---|
 | [**SABIMAN AI**](https://github.com/[your-username]/sabiman-ai-data-analyst) | An AI data analyst you can talk to. Upload a sales spreadsheet, get an instant report with KPIs and charts, then ask questions by text or voice and get written and spoken answers. | n8n, Gemini, Python/pandas | Live demo on request |
-| *More projects coming soon* | New projects are added here as they are completed. Each one has its own repository. | | |
+| [**AI Email Triage Assistant**](https://github.com/Osazuwa-Micheal-Kelvin/ai-email-triage-assistant) | Labels every email, alerts you on Slack only when something important arrives, and sends a 3-hour inbox digest. Read-only: it never sends, drafts, deletes or archives mail. | n8n, Gemini, Gmail, Slack |
+| More coming soon | | |
+
 
 Each repository explains the problem, the solution, the architecture, the tech stack, and the limitations, and includes the exported workflows so you can see exactly how it's built.
 
