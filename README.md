@@ -19,7 +19,7 @@ I help businesses replace manual, repetitive work with AI agents and automated w
 
 | Project | Overview | Stack | Status |
 |---|---|---|---|
-| [**SABIMAN AI**](https://github.com/[your-username]/sabiman-ai-data-analyst) | An AI data analyst you can talk to. Upload a sales spreadsheet, get an instant report with KPIs and charts, then ask questions by text or voice and get written and spoken answers. | n8n, Gemini, Python/pandas | Live demo on request |
+| [**SABIMAN AI**](https://github.com/Osazuwa-Micheal-Kelvin/sabiman-ai-data-analyst) | An AI data analyst you can talk to. Upload a sales spreadsheet, get an instant report with KPIs and charts, then ask questions by text or voice and get written and spoken answers. | n8n, Gemini, Python/pandas | Live demo on request |
 | [**AI Email Triage Assistant**](https://github.com/Osazuwa-Micheal-Kelvin/ai-email-triage-assistant) | Labels every email, alerts you on Slack only when something important arrives, and sends a 3-hour inbox digest. Read-only: it never sends, drafts, deletes or archives mail. | n8n, Gemini, Gmail, Slack |
 | More coming soon | | |
 
